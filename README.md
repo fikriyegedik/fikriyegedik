@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm fikriye</h1>
+<h1 align="center">Hi 👋, I'm Fikriye</h1>
 <h3 align="center">I'm a passionate frontend developer with a creative mindset and a knack for designing visually appealing user interfaces. Welcome to my GitHub profile!</h3>
 
 <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif"> </img> 
