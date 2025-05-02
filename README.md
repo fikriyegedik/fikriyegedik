@@ -9,17 +9,16 @@
 - 🔭 Always working on personal and collaborative projects to stay sharp.
 - 💡 Constantly exploring new frontend technologies and frameworks.
 - 📫 Reach me at **gedikfikriye1@gmail.com**
+- 👩🏻‍💻 For more about my work, visit www.fikriyegedikoglu.net.tr
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/fikriye-gediko%C4%9Flu-2a5862181/" target="_blank">
+  <a href="https://www.linkedin.com/in/fikriyegedik/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/17985845" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
+ 
 </p>
 
 ---
@@ -37,7 +36,8 @@
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://www.wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/></a>
   <a href="https://www.shopify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="Shopify" width="40" height="40"/></a>
-  <a href="https://timber.github.io/docs/" target="_blank"><img src="https://avatars.githubusercontent.com/u/2443597?s=200&v=4" alt="Timber" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
 </p>
 
 ---
