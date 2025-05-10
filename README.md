@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fikriye</h1>
-<h3 align="center">A professional frontend developer working on both global and Turkish projects. Passionate about crafting engaging, visually stunning user experiences.</h3>
+<h3 align="center">A professional frontend developer working on both global and local projects. Passionate about crafting engaging, visually stunning user experiences.</h3>
 
 <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif">
 
@@ -7,7 +7,7 @@
 - 🚀 Passionate about interactive and user-friendly interfaces.
 - 🎨 Enthusiastic about design trends and bringing ideas to life with code.
 - 🔭 Always working on personal and collaborative projects to stay sharp.
-- 💡 Constantly exploring new frontend technologies and frameworks.
+- 💡 Continuously exploring new frontend technologies, frameworks, and mobile development using React Native.
 - 📫 Reach me at **gedikfikriye1@gmail.com**
 - 👩🏻‍💻 For more about my work, visit www.fikriyegedikoglu.net.tr
 
