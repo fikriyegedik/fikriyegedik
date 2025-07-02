@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif">
 
-- 🌍 I’m actively involved in both global and Turkish frontend projects.
+- 🌍 I’m actively involved in both global and local projects.
 - 🚀 Passionate about interactive and user-friendly interfaces.
 - 🎨 Enthusiastic about design trends and bringing ideas to life with code.
 - 🔭 Always working on personal and collaborative projects to stay sharp.
